@@ -1,4 +1,4 @@
-package my.implem;
+package src;
 
 public class Triangle {
 	
